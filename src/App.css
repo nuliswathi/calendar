@@ -1,0 +1,91 @@
+.App-header {
+  background-color: #17a2b8;
+  color: #fff;
+  display: block;
+  padding: 1px;
+}
+
+.header-tile {
+    font-size: 1.75em;
+    text-align: center;
+    font-family: cursive;
+}
+
+.submit {
+  background-color: #17a2b8;
+  color: white;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+}
+
+.form-control {
+  display: block;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+
+form {
+  padding-left: 10px;
+}
+
+.dateBlock {
+  position: "relative";
+  width: 30px;
+  height: 30px;
+  color: "skyblue";
+  float: left;
+  text-align: center;
+  border: 1px dotted #fff;
+  background-color: orange;
+}
+
+.card {
+  width: 230px;
+}
+
+.unselected {
+  position: "relative";
+  width: 30px;
+  height: 30px;
+  color: "skyblue";
+  float: left;
+  text-align: center;
+  border: 1px dotted #fff;
+  color: black;
+  background-color: #696969;
+}
+
+.selected {
+  position: "relative";
+  width: 30px;
+  height: 30px;
+  color: "skyblue";
+  float: left;
+  text-align: center;
+  border: 1px dotted #fff;
+  color: black;
+  background-color: green;
+}
+
+.weekend {
+  position: "relative";
+  width: 30px;
+  height: 30px;
+  color: "skyblue";
+  float: left;
+  text-align: center;
+  border: 1px dotted #fff;
+  color: black;
+  background-color: yellow;
+}
